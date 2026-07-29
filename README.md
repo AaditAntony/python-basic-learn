@@ -1,3 +1,4 @@
 # python basic
 first learning the basic section
-done the 
+done th
+
