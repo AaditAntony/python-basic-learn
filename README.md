@@ -9,3 +9,5 @@ attended the second day notes
 done the second day assgnemtn regarding the print stateent
 <br>
 done learning how to input
+<br>
+learning the variable set
