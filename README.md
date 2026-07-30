@@ -12,3 +12,4 @@ done learning how to input
 <br>
 learning the variable set.
 <br>
+the test of the variable set is completed
