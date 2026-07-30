@@ -5,3 +5,5 @@ did the first assgnemnt
 
 # day 2 
 attended the second day notes
+<br>
+done the second day assgnemtn regarding the print stateent
