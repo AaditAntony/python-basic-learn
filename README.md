@@ -13,3 +13,5 @@ done learning how to input
 learning the variable set.
 <br>
 the test of the variable set is completed
+<br>
+the code assgnment brand generator is done
