@@ -4,3 +4,4 @@ done the first day
 did the first assgnemnt
 
 # day 2 
+attended the second day notes
