@@ -1,4 +1,4 @@
 # python basic
 first learning the basic section
-done th
+done the first day
 
