@@ -7,3 +7,5 @@ did the first assgnemnt
 attended the second day notes
 <br>
 done the second day assgnemtn regarding the print stateent
+<br>
+done learning how to input
