@@ -8,3 +8,10 @@ weight = 84
 bmi =  weight / (height ** 2)
 
 print(bmi)
+
+print(int(bmi))
+print(round(bmi))
+
+# if we want 2 decimal places we round with 2
+
+print(round(bmi,2))
