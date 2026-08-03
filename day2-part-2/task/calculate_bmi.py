@@ -22,3 +22,8 @@ score =0
 # user score a point
 score += 1
 print(score)
+
+# f string used to combine value with the string
+height=1.8
+is_winning= True
+print(f" your score is : {score} ,your height is : {height},your are is : {is_winning}")
