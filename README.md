@@ -15,3 +15,5 @@ learning the variable set.
 the test of the variable set is completed
 <br>
 the code assgnment brand generator is done
+<br>
+currently learned the type casting and the type
