@@ -15,3 +15,10 @@ print(round(bmi))
 # if we want 2 decimal places we round with 2
 
 print(round(bmi,2))
+
+# assignment opertor
+
+score =0
+# user score a point
+score += 1
+print(score)
