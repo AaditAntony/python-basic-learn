@@ -8,4 +8,3 @@ total_bill = bill + total_tip
 bill_pre_person= total_bill/people
 final_amount =round(bill_pre_person,2)
 print(f"each person should pa : {final_amount}")
-12345673423434
