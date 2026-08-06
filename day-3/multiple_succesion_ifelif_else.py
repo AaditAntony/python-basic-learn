@@ -12,6 +12,8 @@ if height>=120:
     elif age <= 18:
         bill=7
         print("You can ride the roller coster pay the $7")
+    elif age >= 45 and age <= 55 :
+        print("You can ride the roller coster pay the ")
     else:
         bill=12
         print("You can ride the roller coster pay the $10")
